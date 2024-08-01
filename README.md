@@ -1,4 +1,4 @@
-# POS FIAP ALRA - IA PARA DEVS
+# POS FIAP ALURA - IA PARA DEVS
 ## Tech Challenge Fase 1
 ### Integrantes Grupo 26
 
